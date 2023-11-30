@@ -1,5 +1,6 @@
 ---
 title: Understanding Strategy vs Tactics
+draft: false
 ---
 
 If you watch chess videos on YouTube, at some time you will see the **strategy vs tactics** idea. For the longest time I did not understand this. I didn't even know what was different between them, until I got the intuition from listening to [Outlive: The Science and Art of Longevity by Peter Attia](https://www.goodreads.com/en/book/show/61153739). I'll explain how I think about strategy vs tactics and how I use it to organize ideas in life and work.
